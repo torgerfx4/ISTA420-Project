@@ -1,5 +1,7 @@
 #Iteration02 Requirements
+
 ##Lee Torgerson & Justin Ridings
+
 ###June 12th, 2017
 
 
@@ -32,7 +34,7 @@
 1. Team3
 1. Team4
 
--Calendar
+- Calendar
 1. Date
 1. teamid
 1. location
