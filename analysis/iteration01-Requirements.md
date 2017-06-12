@@ -1,7 +1,9 @@
 #Iteration02 Requirements
+
 ##Lee Torgerson & Justin Ridings
+
 ###June 5th, 2017
-change
+
 
 -Members
 1. Position
@@ -11,7 +13,7 @@ change
 1. phonenum
 1. teamid
 
-- Pics
+-Pics
 1. picid
 1. memberid
 1. description
@@ -32,7 +34,7 @@ change
 1. Team3
 1. Team4
 
-- Calendar
+-Calendar
 1. Date
 1. teamid
 1. location
