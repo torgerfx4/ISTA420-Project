@@ -1,3 +1,8 @@
+--Iteration01 Implementation
+--Lee Torgerson & Justin Ridings
+--June 15th, 2017
+
+
 select memberid, username, password from profiles
 0000000001	Admin	TerryHorne123
 0000000002	HARRISD	TerryHorne123

@@ -1,3 +1,8 @@
+--Iteration01 Implementation
+--Lee Torgerson & Justin Ridings
+--June 8th, 2017
+
+
 select m.memberid, m.username, m.teamid, c.teamname from member m, calendar c;
 1	justin.blake	1	Raptors
 1	justin.blake	1	Raptors
