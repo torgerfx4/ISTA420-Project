@@ -5,42 +5,38 @@
 ### June 12th, 2017
 
 
-- Members
-1. Position
-1. fname
-1. lname
-1. memberid
-1. phonenum
-1. teamid
-
-- Pics
-1. picid
-1. memberid
-1. description
-1. teamid
+- Display member names, position and team.
 
 
-- Stats
-1. memberid
-1. HR
-1. RBI
-1. strikeouts
-1. battavg
+- View member photos and profile info.
 
-- Teams
-1. teamid
-1. Team1
-1. Team2
-1. Team3
-1. Team4
 
-- Calendar
-1. Date
-1. teamid
-1. location
+- Display HR, RBI, batting average and strikeouts for each player.
 
-- Profiles
-1. memberid
-1. username
-1. userpass
+
+- View members by team.
+
+
+- Display and update calender with team name and location of the games.
+
+
+- Each member should have a unique username, password and privileges.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
