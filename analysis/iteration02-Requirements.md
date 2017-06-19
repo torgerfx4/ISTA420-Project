@@ -1,8 +1,8 @@
-#Iteration02 Requirements
+# Iteration02 Requirements
 
-##Lee Torgerson & Justin Ridings
+## Lee Torgerson & Justin Ridings
 
-###June 12th, 2017
+### June 12th, 2017
 
 
 - Members
