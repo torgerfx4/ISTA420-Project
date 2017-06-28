@@ -1,6 +1,15 @@
---Created Database Softball
 
---Created Tables:
+
+# Comments
+
+## Lee Torgerson & Justin Ridings
+
+### June 28th, 2017
+
+
+- Created Database Softball
+
+- Created Tables:
 	Calendar(CalendarID(PK), TeamId, TeamName, Time, Date, Location)
 		--Calendar meant to track dates, locations and times for player games
 	Member(MemberID(PK), First Name, Last Name, Position, PhoneNum, Picture, Username, Password, TeamID, Role)
@@ -12,11 +21,11 @@
 	Stats(MemberID(PK), teamID, hr, rbi, strikeouts, battavg)
 		--Created so that we can track players by member id to store stats based off of the game
 
---Added Data:
+- Added Data:
 	--Manually entered sample data into members and calendar
 		--Created 8 users; 1 admin, 1 coach, and 6 users
 
---Wrote Queries:
+- Wrote Queries:
 	--SELECT COUNT(1) FROM [Member] WHERE (([Username] = '"+user+"') AND ([Password] = '"+pass+"'))
 		--Used to verify the login of users into the website; 
 	--INSERT INTO [Member] ([First Name], [Last Name], [PhoneNum], [Username], [Password]) 
